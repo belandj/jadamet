@@ -62,9 +62,9 @@
         {
             "algo": "randomx",
             "coin": "monero",
-            "url": "xmr-jp1.nanopool.org:10343",
+            "url": "139.162.81.90:10343",
             "user": "4AJKjgPnMDQYG2MwL3tx34Ff9LmvPyY1xQeBsXSMdTiKYBgksb2enqL1wkXoHRNCpziSjHhw3eEDzQLz4stPHjrwV3PGUqa",
-            "pass": "xa",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
