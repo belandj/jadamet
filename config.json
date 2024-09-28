@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 100,
+        "max-threads-hint": 1,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "randomx",
             "coin": null,
             "url": "xmr-au1.nanopool.org:10300",
             "user": "4AJKjgPnMDQYG2MwL3tx34Ff9LmvPyY1xQeBsXSMdTiKYBgksb2enqL1wkXoHRNCpziSjHhw3eEDzQLz4stPHjrwV3PGUqa",
@@ -69,7 +69,7 @@
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
-            "tls": false,
+            "tls": true,
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
