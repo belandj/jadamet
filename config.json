@@ -62,7 +62,7 @@
         {
             "algo": "randomx",
             "coin": null,
-            "url": "xmr-au1.nanopool.org:10343",
+            "url": "xmr-jp1.nanopool.org:10343 ",
             "user": "4AJKjgPnMDQYG2MwL3tx34Ff9LmvPyY1xQeBsXSMdTiKYBgksb2enqL1wkXoHRNCpziSjHhw3eEDzQLz4stPHjrwV3PGUqa",
             "pass": "x",
             "rig-id": null,
