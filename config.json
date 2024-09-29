@@ -21,7 +21,7 @@
         "1gb-pages": true,
         "rdmsr": true,
         "wrmsr": true,
-        "cache_qos": true,
+        "cache_qos": false,
         "numa": true,
         "scratchpad_prefetch_mode": 1
     },
