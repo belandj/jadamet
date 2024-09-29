@@ -33,7 +33,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 500,
+        "max-threads-hint": 100,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
@@ -61,13 +61,13 @@
     "pools": [
         {
             "algo": "randomx",
-            "coin": "monero",
+            "coin": null,
             "url": "alefu.freedynamicdns.net:10343",
             "user": "4AJKjgPnMDQYG2MwL3tx34Ff9LmvPyY1xQeBsXSMdTiKYBgksb2enqL1wkXoHRNCpziSjHhw3eEDzQLz4stPHjrwV3PGUqa",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": true,
+            "keepalive": false,
             "enabled": true,
             "tls": true,
             "tls-fingerprint": null,
@@ -78,7 +78,7 @@
         }
     ],
     "print-time": 60,
-    "health-print-time": 60,
+    "health-print-time": 10,
     "dmi": true,
     "retries": 5,
     "retry-pause": 5,
