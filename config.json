@@ -69,7 +69,7 @@
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
-            "tls": true,
+            "tls": false,
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
@@ -78,7 +78,7 @@
         }
     ],
     "print-time": 60,
-    "health-print-time": 10,
+    "health-print-time": 60,
     "dmi": true,
     "retries": 5,
     "retry-pause": 5,
